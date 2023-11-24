@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/first-anniversary/static/css/main.edec5413.css",
+    "main.js": "/first-anniversary/static/js/main.d9873ae0.js",
+    "static/js/787.aeca62f9.chunk.js": "/first-anniversary/static/js/787.aeca62f9.chunk.js",
+    "static/media/DungGeunMo.ttf": "/first-anniversary/static/media/DungGeunMo.1ebba65b2b010a1e45d7.ttf",
+    "static/media/couple.png": "/first-anniversary/static/media/couple.7e66e03fcd2716ca1779.png",
+    "static/media/gallery1.jpeg": "/first-anniversary/static/media/gallery1.6d4cda18c8d3bef22fc6.jpeg",
+    "static/media/gallery6.jpeg": "/first-anniversary/static/media/gallery6.67f463557090527a5889.jpeg",
+    "static/media/gallery5.jpeg": "/first-anniversary/static/media/gallery5.9049a67539f9f5d62898.jpeg",
+    "static/media/gallery2.jpeg": "/first-anniversary/static/media/gallery2.597157a1f4b3dd261791.jpeg",
+    "static/media/glamping.jpeg": "/first-anniversary/static/media/glamping.9380a00ca4cc4bdfc4ed.jpeg",
+    "static/media/gallery7.jpeg": "/first-anniversary/static/media/gallery7.d131c55bd178cf4bb38a.jpeg",
+    "static/media/gallery3.jpeg": "/first-anniversary/static/media/gallery3.8cbaa6ca50a3df3d7412.jpeg",
+    "static/media/gallery4.jpeg": "/first-anniversary/static/media/gallery4.f5f5d3e43c711120c000.jpeg",
+    "static/media/girl.jpeg": "/first-anniversary/static/media/girl.b8f5f1842256777f5b5e.jpeg",
+    "static/media/gallery8.jpeg": "/first-anniversary/static/media/gallery8.4b44f50e8af824b5d96a.jpeg",
+    "static/media/boy2.jpeg": "/first-anniversary/static/media/boy2.699ccde20d0c22bbab8e.jpeg",
+    "index.html": "/first-anniversary/index.html",
+    "main.edec5413.css.map": "/first-anniversary/static/css/main.edec5413.css.map",
+    "main.d9873ae0.js.map": "/first-anniversary/static/js/main.d9873ae0.js.map",
+    "787.aeca62f9.chunk.js.map": "/first-anniversary/static/js/787.aeca62f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edec5413.css",
+    "static/js/main.d9873ae0.js"
+  ]
+}
